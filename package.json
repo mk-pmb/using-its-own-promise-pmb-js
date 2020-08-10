@@ -1,0 +1,30 @@
+{ "name": "using-its-own-promise-pmb",
+  "version": "0.0.1",
+  "description": "For the really exotic cases in which an async function needs to refer to a promise that resulted from its invocation.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/using-its-own-promise-pmb-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/using-its-own-promise-pmb-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/using-its-own-promise-pmb-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "scripts": { "test": "nodejs test/all.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {
+    "p-immediate": "^3.1.0"
+  },
+  "devDependencies": {
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
